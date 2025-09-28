@@ -1,0 +1,5 @@
+{
+  "name": "AI Music Generator",
+  "description": "An AI-powered application to generate instrumental music from text prompts. It creates two unique variations for each prompt and provides a preview list for listening, downloading, and managing the tracks.",
+  "requestFramePermissions": []
+}
